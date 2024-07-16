@@ -3,7 +3,7 @@ CCTV1,https://itv.lat/hls?channel=CCTV-1H265&token=fbca23599065f5bd644b330db4e3b
 CCTV2,https://itv.lat/hls?channel=CCTV-2H265&token=fbca23599065f5bd644b330db4e3b1f5
 CCTV3,https://itv.lat/hls?channel=CCTV-3H265&token=fbca23599065f5bd644b330db4e3b1f5
 CCTV4,https://itv.lat/hls?channel=CCTV-4H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV5,https://itv.lat/hls?channel=CCTV-5H265&token=fbca23599065f5bd644b330db4e3b1f5
+CCTV5,https://live.0472.org/ysp/cctv5
 CCTV5+,https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
 CCTV6,https://itv.lat/hls?channel=CCTV-6H265&token=fbca23599065f5bd644b330db4e3b1f5
 CCTV7,https://itv.lat/hls?channel=CCTV-7H265&token=fbca23599065f5bd644b330db4e3b1f5
